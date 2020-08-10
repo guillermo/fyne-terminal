@@ -1,4 +1,4 @@
-module github.com/fyne-io/terminal
+module github.com/guillermo/fyne-terminal
 
 go 1.13
 
